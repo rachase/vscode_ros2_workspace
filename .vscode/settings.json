@@ -1,5 +1,6 @@
 {
-    "editor.tabSize": 8,
+    "editor.renderWhitespace": "all", 
+    "editor.tabSize": 2,
     "editor.rulers": [
         100
     ],
